@@ -11,9 +11,9 @@
 	    <version>0.0.1-SNAPSHOT</version>
   	</parent>
   	
-  	<artifactId>smartres-app-web</artifactId>
+  	<artifactId>yueba-app-web</artifactId>
   	<packaging>war</packaging>
-  	<name>smartres-app-web</name>
+  	<name>yueba-app-web</name>
   	<url>http://maven.apache.org</url>
   	
   	<dependencies>
