@@ -117,7 +117,7 @@
 	  	<module>caterpillar-mvc</module>
 	  	<module>caterpillar-commons</module>
 	  	<module>caterpillar-weixin-api</module>
-	  	<module>guolaiwan-app</module>
+	  	<module>yueba-app</module>
     </modules>
     
     <properties>
